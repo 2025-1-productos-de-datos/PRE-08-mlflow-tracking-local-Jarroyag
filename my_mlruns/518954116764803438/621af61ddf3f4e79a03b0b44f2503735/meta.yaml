@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\Jorge.arroyave\Documents\GitHub\PRE-08-mlflow-tracking-local-Jarroyag\my_mlruns/518954116764803438/621af61ddf3f4e79a03b0b44f2503735/artifacts
+end_time: 1748100600989
+entry_point_name: ''
+experiment_id: '518954116764803438'
+lifecycle_stage: active
+run_id: 621af61ddf3f4e79a03b0b44f2503735
+run_name: elasticnet_7b25625f
+run_uuid: 621af61ddf3f4e79a03b0b44f2503735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748100600892
+status: 3
+tags: []
+user_id: jorge.arroyave

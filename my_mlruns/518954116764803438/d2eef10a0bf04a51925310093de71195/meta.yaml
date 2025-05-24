@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\Jorge.arroyave\Documents\GitHub\PRE-08-mlflow-tracking-local-Jarroyag\my_mlruns/518954116764803438/d2eef10a0bf04a51925310093de71195/artifacts
+end_time: 1748100553508
+entry_point_name: ''
+experiment_id: '518954116764803438'
+lifecycle_stage: active
+run_id: d2eef10a0bf04a51925310093de71195
+run_name: knn_6b39eb2a
+run_uuid: d2eef10a0bf04a51925310093de71195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748100553405
+status: 3
+tags: []
+user_id: jorge.arroyave
